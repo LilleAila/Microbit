@@ -1,6 +1,6 @@
 # Microbit Codes
 
-Velg javascript i microbit MakeCode og lim inn koden.
+Velg javascript i microbit MakeCode og lim inn koden oog bytt tilbake til blokker.
 
 - ## [Input](./codes/input.md)
 
