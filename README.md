@@ -1,6 +1,6 @@
-#Microbit Codes
+# Microbit Codes
 
-##Input:
+## Input:
 ```javascript
 basic.clearScreen()
 radio.setGroup(1)
