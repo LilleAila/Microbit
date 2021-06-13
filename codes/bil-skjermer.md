@@ -10,7 +10,7 @@ Skjermnuummeret starter på null, så skjermnummeret til skjerm nummer 2, blir 1
 
 Legg til en skjerm ved å trykke på minus pluss - knappen og sett inn Lag Bilde - blokken.
 
-Trykk på minus - knappen foor å fjerene en skjerm.
+Trykk på minus - knappen for å fjerene en skjerm.
 
 ```javascript
 // Button Clicked
