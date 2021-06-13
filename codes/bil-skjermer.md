@@ -5,6 +5,7 @@
 Lag flere skjermer.
 
 Bruk en Hvis - blokk og CurrentScreen = (skjermnummer).
+
 Skjermnuummeret starter på null, så skjermnummeret til skjerm nummer 2, blir 1.
 
 ```javascript
