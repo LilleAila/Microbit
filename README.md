@@ -3,4 +3,4 @@
 Velg javascript i [Microbit MakeCode](https://makecode.microbit.org/) og lim inn koden og bytt tilbake til blokker.
 
 - ## [Input](./codes/input.md)
-- ## [Bil fjernkontroll-skjermer](./codes/bil-skjermer.md)
+- ## [Skjermer](./codes/bil-skjermer.md)
