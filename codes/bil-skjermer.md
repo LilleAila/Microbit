@@ -8,6 +8,10 @@ Bruk en Hvis - blokk og CurrentScreen = (skjermnummer).
 
 Skjermnuummeret starter på null, så skjermnummeret til skjerm nummer 2, blir 1.
 
+Legg til en skjerm ved å trykke på minus pluss - knappen og sett inn Lag Bilde - blokken.
+
+Trykk på minus - knappen foor å fjerene en skjerm.
+
 ```javascript
 // Button Clicked
 input.onButtonPressed(Button.A, function () {
