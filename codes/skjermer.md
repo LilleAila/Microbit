@@ -1,6 +1,6 @@
 [<-- Tilbake](../README.md)
 
-##Skjermer
+## Bil-Skjermer
 
 ```javascript
 // Pins Clicked
