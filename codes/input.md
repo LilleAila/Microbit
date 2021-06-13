@@ -15,7 +15,7 @@ input.onPinPressed(TouchPin.P0, function () {
         led.unplot(0, 4)
     } else {
         canResetSwipe = true
-        basic.pause(500)
+        basic.pause(700)
         resetSwipe()
     }
 })
@@ -39,7 +39,7 @@ input.onPinPressed(TouchPin.P2, function () {
         led.unplot(4, 4)
     } else {
         canResetSwipe = true
-        basic.pause(500)
+        basic.pause(700)
         resetSwipe()
     }
 })
@@ -97,4 +97,19 @@ basic.forever(function () {
         led.unplot(2, 0)
     }
 })
+basic.forever(function () {
+    if (input.isGesture(Gesture.TiltLeft)) {
+        led.plot(3, 0)
+    } else {
+        led.unplot(3, 0)
+    }
+})
+basic.forever(function () {
+    if (input.isGesture(Gesture.TiltRight)) {
+        led.plot(4, 0)
+    } else {
+        led.unplot(4, 0)
+    }
+})
+
 ```
