@@ -2,6 +2,8 @@
 
 ## Bil fjernkontroll-skjermer
 
+Skjermer til en bil-fjernkontroll.
+
 ```javascript
 // Pins Clicked
 input.onPinPressed(TouchPin.P0, function () {
