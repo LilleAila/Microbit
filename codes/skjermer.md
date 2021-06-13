@@ -1,6 +1,6 @@
 [<-- Tilbake](../README.md)
 
-## Bil-Skjermer
+## Bil fjernkontroll-skjermer
 
 ```javascript
 // Pins Clicked
