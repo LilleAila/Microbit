@@ -2,6 +2,8 @@
 
 ## Input
 
+Forskjellige måter å trykke knapper.
+
 ```javascript
 input.onPinPressed(TouchPin.P0, function () {
     lastLastPress = lastPress
